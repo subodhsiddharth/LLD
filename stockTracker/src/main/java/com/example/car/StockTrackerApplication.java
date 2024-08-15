@@ -1,9 +1,7 @@
-package com.example.stockTracker;
+package com.example.car;
 
-import com.example.stockTracker.Observable.STObervableImpl;
-import com.example.stockTracker.Observer.STObserver;
-import com.example.stockTracker.Observer.STObserverImpl;
-import org.springframework.boot.SpringApplication;
+import com.example.car.Observable.STObervableImpl;
+import com.example.car.Observer.STObserverImpl;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.ArrayList;

@@ -1,8 +1,6 @@
-package com.example.stockTracker.Observable;
+package com.example.car.Observable;
 
-import com.example.stockTracker.Observer.STObserver;
-import lombok.Getter;
-import lombok.Setter;
+import com.example.car.Observer.STObserver;
 
 public interface StockTrackerObservable {
     public void removeStock(STObserver obj );

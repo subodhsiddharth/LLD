@@ -1,9 +1,7 @@
-package com.example.stockTracker.Observable;
+package com.example.car.Observable;
 
-import com.example.stockTracker.Observer.STObserver;
-import com.example.stockTracker.Observer.STObserverImpl;
-import lombok.Getter;
-import lombok.Setter;
+import com.example.car.Observer.STObserver;
+import com.example.car.Observer.STObserverImpl;
 
 import java.util.List;
 

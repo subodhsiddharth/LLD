@@ -1,7 +1,6 @@
-package com.example.stockTracker.Observer;
+package com.example.car.Observer;
 
-import com.example.stockTracker.Observable.STObervableImpl;
-import com.example.stockTracker.Observable.StockTrackerObservable;
+import com.example.car.Observable.StockTrackerObservable;
 
 public class STObserverImpl implements  STObserver{
 

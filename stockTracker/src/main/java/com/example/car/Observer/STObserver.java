@@ -1,4 +1,4 @@
-package com.example.stockTracker.Observer;
+package com.example.car.Observer;
 
 public interface STObserver {
     void updateStockData();
